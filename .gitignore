@@ -1,30 +1,5 @@
-# Node (por si hay herramientas)
+# Frontend / HTML + JS
 node_modules/
-npm-debug.log*
-yarn-error.log*
-
-# Editor / OS
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# Logs
-logs/
-*.log
-
-# Build / dist
 dist/
 build/
-
-# Dependencias de front-end
-bower_components/
-
-# Paquetes lock no deseados
-.pnp.*
-package-lock.json   # elimina si quieres mantener lock
-yarn.lock           # elimina si usas npm
-
-# Archivos temporales
-*.tmp
-*.swp
+.DS_Store
